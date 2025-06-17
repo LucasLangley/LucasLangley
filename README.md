@@ -5,7 +5,6 @@
 - 🔭 Atualmente trabalho com **Front-End/Full-Stack**
 - 🌱 Estudando **React/JavaScript**
 - 💬 Me pergunte sobre **desenvolvimento web**
-- 📫 Como me encontrar: **lucasboroto00@gmail.com**
 - ⚡ Sempre em busca de novos desafios e aprendizados!
 
 
@@ -32,7 +31,7 @@
   <img align="center" alt="Lucas-Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
-## 🌐 Vamos nos Conectar!
+## 🌐 Minhas Redes Sociais
 
 <div align="center">
   <a href="https://instagram.com/lucas_boroto04" target="_blank">
