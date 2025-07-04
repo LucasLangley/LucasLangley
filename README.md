@@ -8,9 +8,7 @@
 - ⚡ Sempre em busca de novos desafios e aprendizados!
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLangley&theme=dracula&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=00bfbf&point=ffffff&area_color=00bfbf&area=true" width="840px"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLangley&theme=dracula&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=00bfbf&point=ffffff&area_color=00bfbf&area=true" width="840px"/>
 
 <br>
 
