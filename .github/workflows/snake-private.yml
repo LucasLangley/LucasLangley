@@ -1,0 +1,55 @@
+# GitHub Action para animação da cobra com acesso a repositórios privados
+# ATENÇÃO: Só use se configurar corretamente o Personal Access Token!
+# Por padrão, esta configuração NÃO é utilizada
+
+name: Generate snake animation (Private Repos)
+
+on:
+  # Descomente as linhas abaixo se quiser usar esta configuração
+  # schedule:
+  #   - cron: "0 */12 * * *"
+  # workflow_dispatch:
+  
+  # Por padrão, este workflow nunca executa
+  workflow_dispatch:
+    inputs:
+      enable_private_access:
+        description: 'Habilitar acesso a repositórios privados'
+        required: true
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  generate:
+    # Só executa se explicitamente habilitado
+    if: github.event.inputs.enable_private_access == 'true'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: LucasLangley
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # IMPORTANTE: Você precisa configurar o Personal Access Token
+          # 1. Vá para: https://github.com/settings/tokens
+          # 2. Crie um token com permissões: repo, read:user
+          # 3. Adicione o token nos Secrets do repositório como 'PERSONAL_ACCESS_TOKEN'
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
