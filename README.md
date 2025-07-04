@@ -24,6 +24,9 @@
 ## 🌐 Minhas Redes Sociais
 
 <div align="center" style="max-width: 840px; margin: 0 auto;">
+  <a href="https://boroto.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=netlify&logoColor=white" target="_blank">
+  </a>
   <a href="https://instagram.com/lucas_boroto04" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
