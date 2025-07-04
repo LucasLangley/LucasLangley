@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/LucasLangley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLangley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=300"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLangley&layout=compact&langs_count=16&theme=dracula&count_private=true&hide_border=true&cache_seconds=300"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLangley&layout=compact&langs_count=16&theme=dracula&count_private=true&hide_border=true&cache_seconds=300&include_all_commits=true"/>
   </a>
 </div>
 
@@ -29,6 +29,11 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLangley&theme=dracula" alt="GitHub Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasLangley&theme=dracula" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasLangley&theme=dracula" alt="Repos Per Language"/>
 </div>
 
 <br>
