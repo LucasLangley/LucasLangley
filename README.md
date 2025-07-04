@@ -8,7 +8,7 @@
 - 🌱 Estudando **React/JavaScript**
 - 💬 Me pergunte sobre **desenvolvimento web**
 - ⚡ Sempre em busca de novos desafios e aprendizados!
-- 🌐  Meu**Portfólio:** <a href="https://boroto.netlify.app/" target="_blank">boroto.netlify.app</a>
+- 🌐  Meu **Portfólio:** [boroto.netlify.app](https://boroto.netlify.app/)
 
 
 <div align="center">
