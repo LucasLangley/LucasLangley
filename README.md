@@ -39,7 +39,7 @@
   
 ## 🌐 Minhas Redes Sociais
 
-<div style="max-width: 840px; margin: 0 auto;">
+<div align="center" style="max-width: 840px; margin: 0 auto;">
   <a href="https://instagram.com/lucas_boroto04" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
