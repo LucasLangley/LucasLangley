@@ -29,7 +29,7 @@
 
 <div align="center">
   
-## 🛠️ Tecnologias e Ferramentas
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <img src="https://skillicons.dev/icons?i=js,react,html,css,python,flutter,dart,mysql,oracle&theme=dark" width="840px"/>
 
