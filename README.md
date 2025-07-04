@@ -31,7 +31,7 @@
   
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,python,flutter,dart,mysql,oracle&theme=dark" width="840px" style="display: block; margin: 0 auto;"/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,python,flutter,dart,mysql,oracle&theme=dark" style="display: block; margin: 0 auto; max-width: 100%;"/>
 
 </div>
 
