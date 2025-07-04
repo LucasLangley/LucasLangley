@@ -16,7 +16,7 @@
 
 <div align="center">
   <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,flutter,dart,mysql,oracle&theme=dark" style="display: block; margin: 0 auto; max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,flutter,dart,mysql,oracle&theme=dark"/>
 </div>
 
 <div align="center">
