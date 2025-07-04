@@ -1,5 +1,3 @@
-<div align="center">
-  
 # 👋 Eai? Eu sou o Lucas!
 
 ## 🚀 Sobre Mim
@@ -8,8 +6,6 @@
 - 🌱 Estudando **React/JavaScript**
 - 💬 Me pergunte sobre **desenvolvimento web**
 - ⚡ Sempre em busca de novos desafios e aprendizados!
-
-</div>
 
 
 <div align="center">
@@ -20,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/LucasLangley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLangley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLangley&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasLangley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLangley&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
   </a>
 </div>
 
