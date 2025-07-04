@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 👋 Eai? Eu sou o Lucas!
 
 ## 🚀 Sobre Mim
@@ -7,10 +9,14 @@
 - 💬 Me pergunte sobre **desenvolvimento web**
 - ⚡ Sempre em busca de novos desafios e aprendizados!
 
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLangley&theme=dracula&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=00bfbf&point=ffffff&area_color=00bfbf&area=true" width="840px"/>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/LucasLangley">
@@ -19,25 +25,34 @@
   </a>
 </div>
 
+<br>
 
 
-<div style="display: inline_block" align="center">
-  <br>
-  <img align="center" alt="Lucas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lucas-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Lucas-Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Lucas-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lucas-Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
-
-## 🌐 Minhas Redes Sociais
 
 <div align="center">
+  
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block; max-width: 840px;">
+  <img align="center" alt="Lucas-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Lucas-Dart" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Lucas-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+</div>
+
+</div>
+
+<div align="center">
+  
+## 🌐 Minhas Redes Sociais
+
+<div style="max-width: 840px; margin: 0 auto;">
   <a href="https://instagram.com/lucas_boroto04" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -55,17 +70,20 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/LucasLangley/LucasLangley/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  
-
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://github.com/LucasLangley/LucasLangley/blob/output/github-contribution-grid-snake.svg" width="840px"/>
+</div>
+
+<br>
 
 <div align="center">
   
+---
+
 ⭐️ **Obrigado pela visita!** ⭐️
 
 </div>
