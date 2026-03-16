@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="reze_rain.gif" width="840px"/>
+  <img src="reze_rain_loop.gif" width="840px"/>
 </div>
 
 ## About Me
