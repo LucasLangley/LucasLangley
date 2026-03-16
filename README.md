@@ -2,18 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Langley&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="reze_rain.gif" width="840px"/>
+</div>
+
 ## 🚀 Sobre Mim
 
 - 🔭 Atualmente trabalho com **Front-End/Full-Stack**
 - 🌱 Estudando **React/JavaScript**
 - 💬 Me pergunte sobre **desenvolvimento web**
 - ⚡ Sempre em busca de novos desafios e aprendizados!
-- 🌐  Meu **Portfólio:** [boroto.netlify.app](https://boroto.netlify.app/)
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLangley&theme=dracula&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=00bfbf&point=ffffff&area_color=00bfbf&area=true" width="840px"/>
-</div>
+- 🌐 Meu **Portfólio:** [boroto.netlify.app](https://boroto.netlify.app/)
 
 <div align="center">
   <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
