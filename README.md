@@ -6,22 +6,22 @@
   <img src="reze_rain.gif" width="840px"/>
 </div>
 
-## 🚀 Sobre Mim
+## About Me
 
-- 🔭 Atualmente trabalho com **Front-End/Full-Stack**
-- 🌱 Estudando **React/JavaScript**
-- 💬 Me pergunte sobre **desenvolvimento web**
-- ⚡ Sempre em busca de novos desafios e aprendizados!
-- 🌐 Meu **Portfólio:** [boroto.netlify.app](https://boroto.netlify.app/)
+- Currently working with **Front-End/Full-Stack**
+- Studying **React/JavaScript**
+- Ask me about **web development**
+- Always seeking new challenges and learning opportunities!
+- **Portfolio:** [boroto.netlify.app](https://boroto.netlify.app/)
 
 <div align="center">
-  <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+  <h2 align="center">Technologies and Tools</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,flutter,dart,mysql,oracle&theme=dark"/>
 </div>
 
 <div align="center">
   
-## 🌐 Minhas Redes Sociais
+## Social Links
 
 <div align="center" style="max-width: 840px; margin: 0 auto;">
   <a href="https://instagram.com/lucas_boroto04" target="_blank">
@@ -55,6 +55,6 @@
   
 ---
 
-⭐️ **Obrigado pela visita!** ⭐️
+**Thanks for visiting!**
 
 </div>
