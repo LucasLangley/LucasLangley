@@ -33,8 +33,8 @@
   <a href="https://discord.com/users/549713777298243588" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:lucasboroto00@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:lucasgrok@mail.grokbot.com">
+    <img src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/lucas-boroto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
