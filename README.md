@@ -12,7 +12,7 @@
 - Studying **React/JavaScript**
 - Ask me about **web development**
 - Always seeking new challenges and learning opportunities!
-- **Portfolio:** [boroto.netlify.app](https://boroto.netlify.app/)
+- **Portfolio:** [lucaslangley.github.io](https://lucaslangley.github.io/)
 
 <div align="center">
   <h2 align="center">Technologies and Tools</h2>
