@@ -33,7 +33,7 @@
   <a href="https://discord.com/users/549713777298243588" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:lucasgrok@mail.grokbot.com">
+  <a href="mailto:lucas.assistente@mail.grokbot.com">
     <img src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/lucas-boroto/" target="_blank">
