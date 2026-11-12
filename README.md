@@ -6,12 +6,12 @@
 
 <br/><br/>
 
-<a href="https://lucaslangley.github.io/status"><img src="assets/status.svg" width="100%" alt="Status: Lucas Boroto, dev fundador, nível 1, programador júnior na Hermanos TI. Equipamento: TypeScript, Supabase, React Native, Claude e Figma."/></a>
+<a href="https://lucaslangley.github.io/status"><img src="assets/status.svg" width="100%" alt="Status: Lucas Boroto, dev fundador do Casamy (iOS e Android), programador júnior na Hermanos TI. Equipamento: TypeScript, Supabase, React Native, Claude e Figma."/></a>
 
 <br/><br/>
 
-<a href="https://casamy.com.br"><img src="assets/quest-casamy.svg" width="49%" alt="Missão concluída: Casamy, na App Store desde outubro de 2026"/></a>
-<a href="https://lucaslangley.github.io/quests"><img src="assets/quest-casamy-next.svg" width="49%" alt="Missão em andamento: Casamy no Android e na web"/></a>
+<a href="https://casamy.com.br"><img src="assets/quest-casamy.svg" width="49%" alt="Missão concluída: Casamy, no iOS e no Android"/></a>
+<a href="https://lucaslangley.github.io/quests"><img src="assets/quest-casamy-next.svg" width="49%" alt="Missão em andamento: Casamy na web"/></a>
 <a href="https://github.com/LucasLangley/LucasLangley.github.io"><img src="assets/quest-portfolio.svg" width="49%" alt="Missão concluída: portfólio JRPG em pixel art"/></a>
 <a href="https://github.com/LucasLangley?tab=repositories&q=conty-challenge"><img src="assets/quest-conty.svg" width="49%" alt="Missão concluída: 7 desafios Conty"/></a>
 

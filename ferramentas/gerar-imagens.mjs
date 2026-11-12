@@ -181,7 +181,7 @@ function status() {
   b += `<path fill="${C.ink}" d="${notch(px - 8, py - 8, 24 * P + 16, 19 * P + 16, 3)}"/><rect x="${px - 4}" y="${py - 4}" width="${24 * P + 8}" height="${19 * P + 8}" fill="#12113d"/>`
   b += sprite(PORTRAIT, px, py, P) + `<g class="blink">${sprite(PORTRAIT_BLINK, px, py, P, { from: 12, to: 15 })}</g>`
   b += text(px + 60, py + 19 * P + 34, 'LV 1', { size: 14, color: C.gold, cls: 'p2', anchor: 'middle' })
-  b += text(px + 60, py + 19 * P + 58, '1 app na App Store', { size: 15, color: C.muted, anchor: 'middle' })
+  b += text(px + 60, py + 19 * P + 58, 'iOS e Android', { size: 15, color: C.muted, anchor: 'middle' })
 
   const lx = 200
   const row = (y, k, v, col = C.text) => text(lx, y, k, { size: 17, color: C.muted }) + text(lx + 130, y, v, { size: 17, color: col })
@@ -195,7 +195,7 @@ function status() {
   b += `<rect x="${bx}" y="190" width="${bw}" height="16" fill="${C.ink}"/><rect x="${bx + 3}" y="193" width="${bw - 6}" height="10" fill="#12113d"/>`
   b += `<rect class="exp" x="${bx + 3}" y="193" width="${Math.round((bw - 6) * 0.35)}" height="10" fill="${C.green}"/><rect x="${bx + 3}" y="193" width="${Math.round((bw - 6) * 0.35)}" height="3" fill="#b6f5b6"/>`
   b += text(bx + bw + 12, 205, '35%', { size: 15, color: C.green })
-  b += text(lx, 234, 'PRÓXIMO NÍVEL: Casamy no Android e na web', { size: 15, color: C.gold })
+  b += text(lx, 234, 'PRÓXIMO NÍVEL: Casamy na web', { size: 15, color: C.gold })
 
   // equipamento
   const ex = 652
@@ -265,8 +265,8 @@ function save() {
 const files = {
   'header.svg': header(),
   'status.svg': status(),
-  'quest-casamy.svg': quest({ icon: 'casamy', name: 'Casamy', state: 'done', when: 'App Store · out 2026', loot: ['Quiz que monta a lista da casa nova', 'Link da família, sem instalar nada', 'Nia, a assistente com IA'] }),
-  'quest-casamy-next.svg': quest({ icon: 'phone', name: 'Casamy: Android e web', state: 'wip', when: 'próxima etapa', loot: ['Versão para Android', 'Versão web', 'Família inteira na mesma lista'] }),
+  'quest-casamy.svg': quest({ icon: 'casamy', name: 'Casamy', state: 'done', when: 'iOS e Android', loot: ['Quiz que monta a lista da casa nova', 'Link da família, sem instalar nada', 'Nia, a assistente com IA'] }),
+  'quest-casamy-next.svg': quest({ icon: 'phone', name: 'Casamy na web', state: 'wip', when: 'próxima etapa', loot: ['Lista completa no navegador', 'Sem precisar instalar o app', 'Família inteira na mesma lista'] }),
   'quest-portfolio.svg': quest({ icon: 'star', name: 'Portfólio JRPG', state: 'done', when: 'out 2026', loot: ['Sprites desenhados como texto', 'Música 8-bit gerada no navegador', '8 segredos escondidos'] }),
   'quest-conty.svg': quest({ icon: 'chest', name: 'Desafios Conty', state: 'done', when: '7 desafios · out 2026', loot: ['Webhooks, retry, timeout e 429', 'Atribuição por cupom e UTM', 'Classificador de views falsas'] }),
   'btn-jogar.svg': button('JOGAR O PORTFÓLIO', null, { cta: true }),
